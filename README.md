@@ -4,9 +4,9 @@ The Public Gallery App is a web application that allows users to create and shar
 
 ## Technologies Used
 
-- Front-end: HTML, SASS, JavaScript, jquery, Bootstrap
-- Back-end: Java SE, Spring web mvc, Tomcat,
-- Build tool: parcel
+- Front-end: HTML, SASS, JavaScript, jquery, Bootstrap,AJAX
+- Back-end: Java SE, Spring web mvc, Tomcat
+- Build tool: parcelJS
 
 ## Getting Started
 
